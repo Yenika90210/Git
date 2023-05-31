@@ -53,6 +53,18 @@ main{
     outline: none;
 }
 
+.btn-desencriptar:hover{
+    background-color: dimgray;
+}
+
+.btn-encriptar:hover{
+    background-color: dimgray;
+}
+
+.copiar:hover{
+    background-color: dimgray;
+}
+
 .botones{
     display: flex;
     margin-top: 18px;
