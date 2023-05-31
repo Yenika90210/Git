@@ -54,15 +54,15 @@ main{
 }
 
 .btn-desencriptar:hover{
-    background-color: dimgray;
+    background-color: dimgrey;
 }
 
 .btn-encriptar:hover{
-    background-color: dimgray;
+    background-color: dimgrey;
 }
 
 .copiar:hover{
-    background-color: dimgray;
+    background-color: dimgrey;
 }
 
 .botones{
