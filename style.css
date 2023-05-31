@@ -51,6 +51,7 @@ main{
 }
 .mensaje:focus {
     outline: none;
+<<<<<<< HEAD
 }
 
 .btn-desencriptar:hover{
